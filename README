@@ -1,0 +1,3 @@
+Para obter um projeto Codeigniter fresquinho use:
+
+./scripts/makeApp.sh NOME_DO_PROJETO [--remove-userguide]
